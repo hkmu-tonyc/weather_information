@@ -1,0 +1,748 @@
+{
+  "weather": [
+    {
+      "location": {
+          "name": "Hong Kong",
+          "region": "",
+          "country": "Hong Kong, China",
+          "lat": 22.28,
+          "lon": 114.15,
+          "tz_id": "Asia/Hong_Kong",
+          "localtime_epoch": 1711276425,
+          "localtime": "2024-03-24 18:33"
+      },
+      "current": {
+          "last_updated_epoch": 1711276200,
+          "last_updated": "2024-03-24 18:30",
+          "temp_c": 26.0,
+          "temp_f": 78.8,
+          "is_day": 1,
+          "condition": {
+              "text": "Sunny",
+              "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+              "code": 1000
+          },
+          "wind_kph": 19.1,
+          "wind_degree": 200,
+          "wind_dir": "SSW",
+          "precip_mm": 0.0,
+          "humidity": 74,
+          "vis_km": 10.0,
+          "uv": 6.0
+      }
+    },
+    {
+      "location": {
+          "name": "Shenzhen",
+          "region": "Guangdong",
+          "country": "China",
+          "lat": 22.53,
+          "lon": 114.13,
+          "tz_id": "Asia/Hong_Kong",
+          "localtime_epoch": 1711281315,
+          "localtime": "2024-03-24 19:55"
+      },
+      "current": {
+          "last_updated_epoch": 1711280700,
+          "last_updated": "2024-03-24 19:45",
+          "temp_c": 25.0,
+          "temp_f": 77.0,
+          "is_day": 0,
+          "condition": {
+              "text": "Clear",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+              "code": 1000
+          },
+          "wind_kph": 19.1,
+          "wind_degree": 190,
+          "wind_dir": "S",
+          "precip_mm": 0.0,
+          "humidity": 79,
+          "vis_km": 10.0,
+          "uv": 1.0
+      }
+    },
+    {
+      "location": {
+          "name": "Shanghai",
+          "region": "Shanghai",
+          "country": "China",
+          "lat": 31.01,
+          "lon": 121.41,
+          "tz_id": "Asia/Shanghai",
+          "localtime_epoch": 1711281259,
+          "localtime": "2024-03-24 19:54"
+      },
+      "current": {
+          "last_updated_epoch": 1711280700,
+          "last_updated": "2024-03-24 19:45",
+          "temp_c": 17.0,
+          "temp_f": 62.6,
+          "is_day": 0,
+          "condition": {
+              "text": "Clear",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+              "code": 1000
+          },
+          "wind_kph": 15.1,
+          "wind_degree": 30,
+          "wind_dir": "NNE",
+          "precip_mm": 0.0,
+          "humidity": 83,
+          "vis_km": 10.0,
+          "uv": 1.0
+      }
+    },
+    {
+      "location": {
+          "name": "Beijing",
+          "region": "Beijing",
+          "country": "China",
+          "lat": 39.93,
+          "lon": 116.39,
+          "tz_id": "Asia/Shanghai",
+          "localtime_epoch": 1711281299,
+          "localtime": "2024-03-24 19:54"
+      },
+      "current": {
+          "last_updated_epoch": 1711280700,
+          "last_updated": "2024-03-24 19:45",
+          "temp_c": 9.0,
+          "temp_f": 48.2,
+          "is_day": 0,
+          "condition": {
+              "text": "Light rain shower",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/353.png",
+              "code": 1240
+          },
+          "wind_kph": 4.0,
+          "wind_degree": 140,
+          "wind_dir": "SE",
+          "precip_mm": 0.0,
+          "humidity": 93,
+          "vis_km": 2.8,
+          "uv": 1.0
+      }
+    },
+    {
+      "location": {
+          "name": "Tokyo",
+          "region": "Tokyo",
+          "country": "Japan",
+          "lat": 35.69,
+          "lon": 139.69,
+          "tz_id": "Asia/Tokyo",
+          "localtime_epoch": 1711281468,
+          "localtime": "2024-03-24 20:57"
+      },
+      "current": {
+          "last_updated_epoch": 1711280700,
+          "last_updated": "2024-03-24 20:45",
+          "temp_c": 12.0,
+          "temp_f": 53.6,
+          "is_day": 0,
+          "condition": {
+              "text": "Light rain",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/296.png",
+              "code": 1183
+          },
+          "wind_kph": 6.8,
+          "wind_degree": 340,
+          "wind_dir": "NNW",
+          "precip_mm": 0.35,
+          "humidity": 88,
+          "vis_km": 8.0,
+          "uv": 1.0
+      }
+    },
+    {
+      "location": {
+          "name": "Osaka-Shi",
+          "region": "Osaka",
+          "country": "Japan",
+          "lat": 34.69,
+          "lon": 135.5,
+          "tz_id": "Asia/Tokyo",
+          "localtime_epoch": 1711281527,
+          "localtime": "2024-03-24 20:58"
+      },
+      "current": {
+          "last_updated_epoch": 1711280700,
+          "last_updated": "2024-03-24 20:45",
+          "temp_c": 13.0,
+          "temp_f": 55.4,
+          "is_day": 0,
+          "condition": {
+              "text": "Partly cloudy",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+              "code": 1003
+          },
+          "wind_kph": 13.0,
+          "wind_degree": 50,
+          "wind_dir": "NE",
+          "precip_mm": 0.11,
+          "humidity": 72,
+          "vis_km": 10.0,
+          "uv": 1.0
+      }
+    },
+    {
+      "location": {
+          "name": "Seoul",
+          "region": "",
+          "country": "South Korea",
+          "lat": 37.57,
+          "lon": 127.0,
+          "tz_id": "Asia/Seoul",
+          "localtime_epoch": 1711281467,
+          "localtime": "2024-03-24 20:57"
+      },
+      "current": {
+          "last_updated_epoch": 1711280700,
+          "last_updated": "2024-03-24 20:45",
+          "temp_c": 15.0,
+          "temp_f": 59.0,
+          "is_day": 0,
+          "condition": {
+              "text": "Clear",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+              "code": 1000
+          },
+          "wind_kph": 4.0,
+          "wind_degree": 300,
+          "wind_dir": "WNW",
+          "precip_mm": 0.0,
+          "humidity": 48,
+          "vis_km": 10.0,
+          "uv": 1.0
+      }
+    },
+    {
+      "location": {
+          "name": "Singapore",
+          "region": "",
+          "country": "Singapore",
+          "lat": 1.29,
+          "lon": 103.86,
+          "tz_id": "Asia/Singapore",
+          "localtime_epoch": 1711281583,
+          "localtime": "2024-03-24 19:59"
+      },
+      "current": {
+          "last_updated_epoch": 1711280700,
+          "last_updated": "2024-03-24 19:45",
+          "temp_c": 30.0,
+          "temp_f": 86.0,
+          "is_day": 0,
+          "condition": {
+              "text": "Partly cloudy",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+              "code": 1003
+          },
+          "wind_kph": 20.2,
+          "wind_degree": 60,
+          "wind_dir": "ENE",
+          "precip_mm": 0.0,
+          "humidity": 70,
+          "vis_km": 10.0,
+          "uv": 7.0
+      }
+    },
+    {
+      "location": {
+          "name": "Kuala Lumpur",
+          "region": "Kuala Lumpur",
+          "country": "Malaysia",
+          "lat": 3.17,
+          "lon": 101.7,
+          "tz_id": "Asia/Kuala_Lumpur",
+          "localtime_epoch": 1711281608,
+          "localtime": "2024-03-24 20:00"
+      },
+      "current": {
+          "last_updated_epoch": 1711281600,
+          "last_updated": "2024-03-24 20:00",
+          "temp_c": 29.0,
+          "temp_f": 84.2,
+          "is_day": 0,
+          "condition": {
+              "text": "Partly cloudy",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+              "code": 1003
+          },
+          "wind_kph": 15.1,
+          "wind_degree": 360,
+          "wind_dir": "N",
+          "precip_mm": 0.38,
+          "humidity": 75,
+          "vis_km": 9.0,
+          "uv": 1.0
+      }
+    },
+    {
+      "location": {
+          "name": "Bangkok",
+          "region": "Krung Thep",
+          "country": "Thailand",
+          "lat": 13.75,
+          "lon": 100.52,
+          "tz_id": "Asia/Bangkok",
+          "localtime_epoch": 1711281629,
+          "localtime": "2024-03-24 19:00"
+      },
+      "current": {
+          "last_updated_epoch": 1711281600,
+          "last_updated": "2024-03-24 19:00",
+          "temp_c": 33.0,
+          "temp_f": 91.4,
+          "is_day": 0,
+          "condition": {
+              "text": "Partly cloudy",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+              "code": 1003
+          },
+          "wind_kph": 19.1,
+          "wind_degree": 170,
+          "wind_dir": "S",
+          "precip_mm": 0.0,
+          "humidity": 59,
+          "vis_km": 10.0,
+          "uv": 1.0
+      }
+    },
+    {
+      "location": {
+          "name": "Sydney",
+          "region": "New South Wales",
+          "country": "Australia",
+          "lat": -33.88,
+          "lon": 151.22,
+          "tz_id": "Australia/Sydney",
+          "localtime_epoch": 1711281558,
+          "localtime": "2024-03-24 22:59"
+      },
+      "current": {
+          "last_updated_epoch": 1711280700,
+          "last_updated": "2024-03-24 22:45",
+          "temp_c": 19.0,
+          "temp_f": 66.2,
+          "is_day": 0,
+          "condition": {
+              "text": "Clear",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+              "code": 1000
+          },
+          "wind_kph": 6.8,
+          "wind_degree": 320,
+          "wind_dir": "NW",
+          "precip_mm": 0.0,
+          "humidity": 88,
+          "vis_km": 10.0,
+          "uv": 1.0
+      }
+    },
+    {
+      "location": {
+          "name": "Melbourne",
+          "region": "Victoria",
+          "country": "Australia",
+          "lat": -37.82,
+          "lon": 144.97,
+          "tz_id": "Australia/Melbourne",
+          "localtime_epoch": 1711281596,
+          "localtime": "2024-03-24 22:59"
+      },
+      "current": {
+          "last_updated_epoch": 1711280700,
+          "last_updated": "2024-03-24 22:45",
+          "temp_c": 15.0,
+          "temp_f": 59.0,
+          "is_day": 0,
+          "condition": {
+              "text": "Partly cloudy",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+              "code": 1003
+          },
+          "wind_kph": 16.9,
+          "wind_degree": 290,
+          "wind_dir": "WNW",
+          "precip_mm": 0.0,
+          "humidity": 72,
+          "vis_km": 10.0,
+          "uv": 1.0
+      }
+    },
+    {
+      "location": {
+          "name": "Austin",
+          "region": "Texas",
+          "country": "United States of America",
+          "lat": 30.27,
+          "lon": -97.74,
+          "tz_id": "America/Chicago",
+          "localtime_epoch": 1711281710,
+          "localtime": "2024-03-24 7:01"
+      },
+      "current": {
+          "last_updated_epoch": 1711281600,
+          "last_updated": "2024-03-24 07:00",
+          "temp_c": 14.4,
+          "temp_f": 57.9,
+          "is_day": 0,
+          "condition": {
+              "text": "Mist",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/143.png",
+              "code": 1030
+          },
+          "wind_kph": 19.1,
+          "wind_degree": 180,
+          "wind_dir": "S",
+          "precip_mm": 0.0,
+          "humidity": 97,
+          "vis_km": 9.7,
+          "uv": 1.0
+      }
+    },
+    {
+      "location": {
+          "name": "Los Angeles",
+          "region": "California",
+          "country": "United States of America",
+          "lat": 34.05,
+          "lon": -118.24,
+          "tz_id": "America/Los_Angeles",
+          "localtime_epoch": 1711281633,
+          "localtime": "2024-03-24 5:00"
+      },
+      "current": {
+          "last_updated_epoch": 1711281600,
+          "last_updated": "2024-03-24 05:00",
+          "temp_c": 11.1,
+          "temp_f": 52.0,
+          "is_day": 0,
+          "condition": {
+              "text": "Clear",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+              "code": 1000
+          },
+          "wind_kph": 3.6,
+          "wind_degree": 10,
+          "wind_dir": "N",
+          "precip_mm": 0.0,
+          "humidity": 66,
+          "vis_km": 16.0,
+          "uv": 1.0
+      }
+    },
+    {
+      "location": {
+          "name": "New York",
+          "region": "New York",
+          "country": "United States of America",
+          "lat": 40.71,
+          "lon": -74.01,
+          "tz_id": "America/New_York",
+          "localtime_epoch": 1711281748,
+          "localtime": "2024-03-24 8:02"
+      },
+      "current": {
+          "last_updated_epoch": 1711281600,
+          "last_updated": "2024-03-24 08:00",
+          "temp_c": 0.0,
+          "temp_f": 32.0,
+          "is_day": 1,
+          "condition": {
+              "text": "Partly cloudy",
+              "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+              "code": 1003
+          },
+          "wind_kph": 25.9,
+          "wind_degree": 10,
+          "wind_dir": "N",
+          "precip_mm": 0.0,
+          "humidity": 43,
+          "vis_km": 16.0,
+          "uv": 2.0
+      }
+    },
+    {
+      "location": {
+          "name": "London",
+          "region": "City of London, Greater London",
+          "country": "United Kingdom",
+          "lat": 51.52,
+          "lon": -0.11,
+          "tz_id": "Europe/London",
+          "localtime_epoch": 1711281678,
+          "localtime": "2024-03-24 12:01"
+      },
+      "current": {
+          "last_updated_epoch": 1711281600,
+          "last_updated": "2024-03-24 12:00",
+          "temp_c": 10.0,
+          "temp_f": 50.0,
+          "is_day": 1,
+          "condition": {
+              "text": "Partly cloudy",
+              "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+              "code": 1003
+          },
+          "wind_kph": 22.0,
+          "wind_degree": 310,
+          "wind_dir": "NW",
+          "precip_mm": 0.01,
+          "humidity": 58,
+          "vis_km": 10.0,
+          "uv": 2.0
+      }
+    },
+    {
+      "location": {
+          "name": "Dublin",
+          "region": "Dublin",
+          "country": "Ireland",
+          "lat": 53.33,
+          "lon": -6.25,
+          "tz_id": "Europe/Dublin",
+          "localtime_epoch": 1711281696,
+          "localtime": "2024-03-24 12:01"
+      },
+      "current": {
+          "last_updated_epoch": 1711281600,
+          "last_updated": "2024-03-24 12:00",
+          "temp_c": 9.0,
+          "temp_f": 48.2,
+          "is_day": 1,
+          "condition": {
+              "text": "Partly cloudy",
+              "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+              "code": 1003
+          },
+          "wind_kph": 16.9,
+          "wind_degree": 270,
+          "wind_dir": "W",
+          "precip_mm": 0.02,
+          "humidity": 76,
+          "vis_km": 10.0,
+          "uv": 3.0
+      }
+    },
+    {
+      "location": {
+          "name": "Warsaw",
+          "region": "",
+          "country": "Poland",
+          "lat": 52.25,
+          "lon": 21.0,
+          "tz_id": "Europe/Warsaw",
+          "localtime_epoch": 1711281713,
+          "localtime": "2024-03-24 13:01"
+      },
+      "current": {
+          "last_updated_epoch": 1711281600,
+          "last_updated": "2024-03-24 13:00",
+          "temp_c": 7.0,
+          "temp_f": 44.6,
+          "is_day": 1,
+          "condition": {
+              "text": "Partly cloudy",
+              "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+              "code": 1003
+          },
+          "wind_kph": 11.2,
+          "wind_degree": 250,
+          "wind_dir": "WSW",
+          "precip_mm": 0.25,
+          "humidity": 66,
+          "vis_km": 10.0,
+          "uv": 2.0
+      }
+    },
+    {
+      "location": {
+          "name": "Berlin",
+          "region": "Berlin",
+          "country": "Germany",
+          "lat": 52.52,
+          "lon": 13.4,
+          "tz_id": "Europe/Berlin",
+          "localtime_epoch": 1711281730,
+          "localtime": "2024-03-24 13:02"
+      },
+      "current": {
+          "last_updated_epoch": 1711281600,
+          "last_updated": "2024-03-24 13:00",
+          "temp_c": 5.0,
+          "temp_f": 41.0,
+          "is_day": 1,
+          "condition": {
+              "text": "Light rain",
+              "icon": "//cdn.weatherapi.com/weather/64x64/day/296.png",
+              "code": 1183
+          },
+          "wind_kph": 20.2,
+          "wind_degree": 210,
+          "wind_dir": "SSW",
+          "precip_mm": 0.47,
+          "humidity": 87,
+          "vis_km": 10.0,
+          "uv": 1.0
+      }
+    },
+    {
+      "location": {
+          "name": "Frankfurt",
+          "region": "Hessen",
+          "country": "Germany",
+          "lat": 50.12,
+          "lon": 8.68,
+          "tz_id": "Europe/Berlin",
+          "localtime_epoch": 1711281844,
+          "localtime": "2024-03-24 13:04"
+      },
+      "current": {
+          "last_updated_epoch": 1711281600,
+          "last_updated": "2024-03-24 13:00",
+          "temp_c": 8.0,
+          "temp_f": 46.4,
+          "is_day": 1,
+          "condition": {
+              "text": "Moderate or heavy snow showers",
+              "icon": "//cdn.weatherapi.com/weather/64x64/day/371.png",
+              "code": 1258
+          },
+          "wind_kph": 34.9,
+          "wind_degree": 230,
+          "wind_dir": "SW",
+          "precip_mm": 0.24,
+          "humidity": 76,
+          "vis_km": 10.0,
+          "uv": 2.0
+      }
+    },
+    {
+      "location": {
+          "name": "Munich",
+          "region": "Bayern",
+          "country": "Germany",
+          "lat": 48.15,
+          "lon": 11.58,
+          "tz_id": "Europe/Berlin",
+          "localtime_epoch": 1711281788,
+          "localtime": "2024-03-24 13:03"
+      },
+      "current": {
+          "last_updated_epoch": 1711281600,
+          "last_updated": "2024-03-24 13:00",
+          "temp_c": 7.0,
+          "temp_f": 44.6,
+          "is_day": 1,
+          "condition": {
+              "text": "Light sleet",
+              "icon": "//cdn.weatherapi.com/weather/64x64/day/317.png",
+              "code": 1204
+          },
+          "wind_kph": 34.9,
+          "wind_degree": 250,
+          "wind_dir": "WSW",
+          "precip_mm": 0.25,
+          "humidity": 61,
+          "vis_km": 10.0,
+          "uv": 2.0
+      }
+    },
+    {
+      "location": {
+          "name": "Paris",
+          "region": "Ile-de-France",
+          "country": "France",
+          "lat": 48.87,
+          "lon": 2.33,
+          "tz_id": "Europe/Paris",
+          "localtime_epoch": 1711281909,
+          "localtime": "2024-03-24 13:05"
+      },
+      "current": {
+          "last_updated_epoch": 1711281600,
+          "last_updated": "2024-03-24 13:00",
+          "temp_c": 9.0,
+          "temp_f": 48.2,
+          "is_day": 1,
+          "condition": {
+              "text": "Light rain",
+              "icon": "//cdn.weatherapi.com/weather/64x64/day/296.png",
+              "code": 1183
+          },
+          "wind_kph": 25.9,
+          "wind_degree": 280,
+          "wind_dir": "W",
+          "precip_mm": 0.11,
+          "humidity": 66,
+          "vis_km": 10.0,
+          "uv": 2.0
+      }
+    },
+    {
+      "location": {
+          "name": "Cannes",
+          "region": "Provence-Alpes-Cote d'Azur",
+          "country": "France",
+          "lat": 43.55,
+          "lon": 7.02,
+          "tz_id": "Europe/Paris",
+          "localtime_epoch": 1711281924,
+          "localtime": "2024-03-24 13:05"
+      },
+      "current": {
+          "last_updated_epoch": 1711281600,
+          "last_updated": "2024-03-24 13:00",
+          "temp_c": 16.0,
+          "temp_f": 60.8,
+          "is_day": 1,
+          "condition": {
+              "text": "Sunny",
+              "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+              "code": 1000
+          },
+          "wind_kph": 15.1,
+          "wind_degree": 110,
+          "wind_dir": "ESE",
+          "precip_mm": 0.0,
+          "humidity": 59,
+          "vis_km": 10.0,
+          "uv": 5.0
+      }
+    },
+    {
+      "location": {
+          "name": "Dubai",
+          "region": "Dubai",
+          "country": "United Arab Emirates",
+          "lat": 25.25,
+          "lon": 55.28,
+          "tz_id": "Asia/Dubai",
+          "localtime_epoch": 1711281844,
+          "localtime": "2024-03-24 16:04"
+      },
+      "current": {
+          "last_updated_epoch": 1711281600,
+          "last_updated": "2024-03-24 16:00",
+          "temp_c": 33.0,
+          "temp_f": 91.4,
+          "is_day": 1,
+          "condition": {
+              "text": "Sunny",
+              "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+              "code": 1000
+          },
+          "wind_kph": 20.2,
+          "wind_degree": 320,
+          "wind_dir": "NW",
+          "precip_mm": 0.0,
+          "humidity": 36,
+          "vis_km": 10.0,
+          "uv": 7.0
+      }
+    }
+  ]
+}
